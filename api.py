@@ -72,7 +72,6 @@ def preprocess_new_data(json_data):
                          drop_first=True, dtype=int)
     
     # --- Final alignment ---
-    # This is the most important step!
     # It ensures the new data has the *exact same 33 columns*
     # in the *exact same order* as the training data.
     
