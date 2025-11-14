@@ -50,6 +50,11 @@ This is the "so what?" of the project. By deploying this model, we can move from
 
 ![Cost-Benefit Analysis](cost_benefit_analysis.png)
 
+
+### 7. Output (http://192.168.100.69:5000)
+
+![output](https://imgur.com/nNoV3ri.png)
+
 ### GROUP MEMBERS
 **NAME: MAKAMU BETSY**          **EMAIL: makamubesty@gmail.com**
 
